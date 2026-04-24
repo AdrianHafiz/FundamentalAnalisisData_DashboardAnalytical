@@ -1,0 +1,1 @@
+# FundamentalAnalisisData_DashboardAnalytical
